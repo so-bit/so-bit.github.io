@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import { FaLinkedin } from 'react-icons/fa';
+
 
 export const AboutMe = () => {
   return (
